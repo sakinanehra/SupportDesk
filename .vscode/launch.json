@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SupportDesk (dev)",
+      "request": "launch",
+      "mainClass": "com.supportdesk.SupportDeskApplication",
+      "projectName": "supportdesk",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
